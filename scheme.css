@@ -1,0 +1,181 @@
+@import 'https://fonts.googleapis.com/css?family=Oswald:400,700';
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+@import 'https://fonts.googleapis.com/css?family=Raleway;
+
+body
+{
+margin:0;
+
+}
+
+header
+{
+background: black;
+color: white;
+padding:8px 0px 6px 40px;
+height:45px;
+}
+
+header h1
+{
+display:inline;
+font-family: 'Oswald', sans-serif;
+font-weight:400;
+font-size:32px;
+float:left;
+margin-top:0px;
+margin-right:0px;
+}
+
+nav ul
+{
+display:inline;
+padding:0px;
+float:left;
+}
+
+nav ul li
+{
+display:inline-block;
+list-style-type:none;
+color:white;
+float:left;
+margin-left:12px;
+}
+
+nav ul li a
+{
+	color:white;
+	text-decoration: none;
+}
+
+#nav {
+	font-family:'Montserrat', sans-serif;
+}
+
+.homered
+{
+	background-color:red;
+	padding:10px 10px 15px 10px;
+}
+.divider
+{
+	background-color:red;
+	height:5px;
+}
+
+.homeblack:hover
+{
+	background-color:powderblue;
+	padding:10px 10px 15px 10px;
+}
+
+.fwimage1
+{
+	background-image:url(https://images.unsplash.com/photo-1521453510357-5c7a77db7074?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=490f49b26c354f4acd914f1a30d436ea&auto=format&fit=crop&w=975&q=80);
+	width:100%;
+	height:100%;
+	background-repeat:repeat;
+	background-size:cover;
+	margin:0px;
+	padding:0px;
+}
+
+.fwimage2
+{
+	background-image:url(https://images.unsplash.com/photo-1452715923772-3af19799aef8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ee4ccbd65b51e1af06bbd665d3176e75&auto=format&fit=crop&w=1050&q=80);
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin:0px;
+	padding:0px;
+}
+
+.homesub
+{
+	font-family:'Raleway', sans-serif;
+	margin:0;
+	padding:9% 5% 0% 55%;
+	font-size:28px;
+	color:white;
+	display:inline-block;
+}
+
+.homedes
+{
+	font-family:'Raleway', sans-serif;
+	margin:0.5% 0% 0% 55%;
+	font-size:35px;
+	color:white;
+	background-color:rgba(0,0,0,0.4);
+	display:inline-block;
+}
+
+.homepho
+{
+	font-family:'Oswald', sans-serif;
+	margin: 0% 0% 0% 55%;
+	font-size:64px;
+	color:black;
+	display:inline-block;
+}
+
+.buttonhome
+{
+	
+	margin:0% 0% 0% 55%;
+	background:powderblue;
+	color:black;
+	border:none;
+	height:50px;
+	font-size:1.4em;
+	padding:0 1em;
+	cursor:pointer;
+	outline:none;
+	font-family:'Raleway', sans-serif;
+	font-weight:900;
+}
+
+.homepho
+{
+	font-family:'Oswald', sans-serif;
+	margin: 0% 0% 0% 55%;
+	font-size:64px;
+	color:black;
+	display:inline-block;
+}
+ 
+.homelink:hover
+{
+	background-color:powderblue;
+	padding:10px 10px 15px 10px;
+	
+}
+
+na ul
+{
+display:inline;
+padding:0px;
+padding-right:20px;
+float:right;
+}
+
+na ul li
+{
+display:inline-block;
+list-style-type:none;
+color:white;
+float:right;
+margin-left:50px;
+}
+
+na ul li a
+{
+	color:white;
+	text-decoration: none;
+}
+
+#na {
+	font-family:'Montserrat', sans-serif;
+}
